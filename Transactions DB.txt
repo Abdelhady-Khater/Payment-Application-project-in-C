@@ -1,0 +1,40 @@
+Transaction Sequence Number: 1
+Transaction Date: 1/2/2023	0:21:19
+Transaction Amount: 500.00
+TTransaction Max Amount: 3000.00
+Cardholder Name: abdelhady khater abdel
+PAN: 815424351390031223
+Transaction State: APPROVED
+----------------------------------------------------------------
+Transaction Sequence Number: 2
+Transaction Date: 1/2/2023	0:22:19
+Transaction Amount: 4000.00
+TTransaction Max Amount: 5000.00
+Cardholder Name: mohamed khater mohamed
+PAN: 815424351390031223
+Transaction State: APPROVED
+----------------------------------------------------------------
+Transaction Sequence Number: 3
+Transaction Date: 1/2/2023	0:23:19
+Transaction Amount: 9000.00
+TTransaction Max Amount: 10000.00
+Cardholder Name: mohamed khater mohamed
+PAN: 815424351390031223
+Transaction State: DECLINED_INSUFFECIENT_FUND
+----------------------------------------------------------------
+Transaction Sequence Number: 4
+Transaction Date: 1/2/2023	0:24:27
+Transaction Amount: 5000.00
+TTransaction Max Amount: 10000.00
+Cardholder Name: mohamed khater mohamed
+PAN: 091627243855849715
+Transaction State: DECLINED_STOLEN_CARD
+----------------------------------------------------------------
+Transaction Sequence Number: 5
+Transaction Date: 1/2/2023	0:29:55
+Transaction Amount: 500.00
+TTransaction Max Amount: 5000.00
+Cardholder Name: abdelhady khater abdel
+PAN: 914543576573443368
+Transaction State: APPROVED
+----------------------------------------------------------------
